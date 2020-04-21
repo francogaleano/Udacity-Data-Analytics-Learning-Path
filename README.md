@@ -8,6 +8,11 @@ The first project is to analyze Bay Area Bike Share Project
 Complete your first project analyzing bike rental data. 
 
 **Project 2: Investigate a Dataset**
-Choose one of Udacity's curated datasets and investigate it using NumPy and Pandas. 
+
+You have to choose one of Udacity's curated datasets and investigate it using NumPy and Pandas. 
 Go through the entire data analysis process, starting by posing a question and finishing by sharing your findings.
 I have ve chosen the [European Soccer Database](https://www.kaggle.com/hugomathien/soccer) that it is available on kaggle.
+
+**Project 3:**
+
+**Final Project**
