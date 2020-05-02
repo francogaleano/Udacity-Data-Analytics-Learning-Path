@@ -11,7 +11,7 @@ Complete your first project analyzing bike rental data.
 
 You have to choose one of Udacity's curated datasets and investigate it using NumPy and Pandas. 
 Go through the entire data analysis process, starting by posing a question and finishing by sharing your findings.
-I have ve chosen the [European Soccer Database](https://www.kaggle.com/hugomathien/soccer) that it is available on kaggle.
+I have chosen the [European Soccer Database](https://www.kaggle.com/hugomathien/soccer) that it is available on kaggle. I've selected to work with the Swiss Super League and did some EDA
 
 **Project 3:**
 
