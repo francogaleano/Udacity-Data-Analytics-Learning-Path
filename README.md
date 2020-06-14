@@ -15,4 +15,8 @@ I have chosen the [European Soccer Database](https://www.kaggle.com/hugomathien/
 
 **Project 3:**
 
+Wrangle, analyze and vizualise the tweets of WeRateDogs twitter account. 
+
 **Final Project: A/B Test ** 
+
+Run an A/B test for an e-commerce website. 
